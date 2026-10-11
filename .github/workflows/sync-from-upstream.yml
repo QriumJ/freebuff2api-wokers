@@ -20,7 +20,7 @@ jobs:
       - name: 업스트림 리모트 추가
         run: |
           git remote add upstream https://github.com/pingmike2/freebuff2api-wokers.git
-          git fetch upstream --tags --prune
+          git fetch --no-tags upstream --prune
       - name: 업스트림 브랜치 목록 확인
         run: |
           echo "=== 업스트림 브랜치 ==="
@@ -45,6 +45,7 @@ jobs:
             git push origin "$branch" --force-with-lease || true
           done
       - name: 태그 동기화
+        continue-on-error: true
         run: |
           git fetch upstream --tags
           git push origin --tags --force-with-lease || true
