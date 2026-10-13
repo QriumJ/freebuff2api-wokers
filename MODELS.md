@@ -1,4 +1,4 @@
-# Freebuff 可用模型（2026-10-13 21:08:12 北京时间）
+# Freebuff 可用模型（2026-10-14 06:04:23 北京时间）
 
 > 自动生成 · 来源：[CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) main · 更新频率：每 6 小时
 
@@ -16,6 +16,7 @@
 - `google/gemini-3.6-flash` —— google/gemini-3.6-flash
 - `google/gemini-3.7-flash` —— google/gemini-3.7-flash
 - `google/gemini-3.8-flash` —— google/gemini-3.8-flash
+- `google/gemini-4-argon` —— google/gemini-4-argon
 - `meta-llama/llama-4-maverick` —— meta-llama/llama-4-maverick
 - `minimax/minimax-m3` —— MiniMax M3（综合能力强，中文优秀）
 - `mistralai/codestral-2508` —— mistralai/codestral-2508
@@ -73,4 +74,4 @@
 
 
 ---
-共 61 个模型 · 上次更新：2026-10-13 21:08:12
+共 62 个模型 · 上次更新：2026-10-14 06:04:23
