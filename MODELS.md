@@ -1,4 +1,4 @@
-# Freebuff 可用模型（2026-10-14 06:04:23 北京时间）
+# Freebuff 可用模型（2026-10-14 10:36:29 北京时间）
 
 > 自动生成 · 来源：[CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) main · 更新频率：每 6 小时
 
@@ -11,6 +11,7 @@
 - `anthropic/claude-sonnet-4.6` —— anthropic/claude-sonnet-4.6
 - `anthropic/claude-sonnet-5` —— anthropic/claude-sonnet-5
 - `crof/kimi-k3-eco` —— Kimi K3 Eco（CROF 平衡型模型）
+- `deepseek/deepseek-v4-flash-fast` —— deepseek/deepseek-v4-flash-fast
 - `deepseek/deepseek-v4-pro` —— DeepSeek V4 Pro（最强推理模型）
 - `google/gemini-3.5-flash` —— google/gemini-3.5-flash
 - `google/gemini-3.6-flash` —— google/gemini-3.6-flash
@@ -61,7 +62,6 @@
 ## 标准（STANDARD）模型
 
 - `deepseek/deepseek-v4-flash` —— DeepSeek V4 Flash（推理模型，代码/数学/推理优秀）
-- `deepseek/deepseek-v4-flash-fast` —— deepseek/deepseek-v4-flash-fast
 - `deepseek/deepseek-v4.1-flash` —— deepseek/deepseek-v4.1-flash
 - `meta/muse-spark-1.2-contributor` —— Muse Spark 1.2（Meta 开发者专属，限量）
 - `meta/muse-spark-1.3-contributor` —— meta/muse-spark-1.3-contributor
@@ -74,4 +74,4 @@
 
 
 ---
-共 62 个模型 · 上次更新：2026-10-14 06:04:23
+共 62 个模型 · 上次更新：2026-10-14 10:36:29
